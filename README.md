@@ -1,1 +1,1 @@
-# ec2-hello
+# EC2 Hello World (Terraform)
